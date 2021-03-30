@@ -1,0 +1,5 @@
+export { default as Cadastro } from "../pages/Cadastro/Forum"
+export { default as Biografia } from "../pages/Biografia/Biografia"
+export { default as Galeria } from "./Galeria/Galeria"
+export { default as Discografia } from "../pages/Discografia/Discografia"
+export { default as Main } from "../pages/Main"
